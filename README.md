@@ -25,7 +25,7 @@
 
 ## 📊 GitHub Metrics
 
-![Metrics](https://github.com/batcoder-1/batcoder-1/blob/main/github-metrics.svg)
+![Metrics](./stats.svg)
 
 ---
 
