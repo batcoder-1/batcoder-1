@@ -39,16 +39,15 @@
 
 ## 📂 Featured Projects
 
+### [WriteUp – Personal Blogging Platform](https://github.com/batcoder-1/WriteUp)  
+🔹 Create, edit, and delete blog posts with authentication  
+🔹 Clean, interactive UI built with React, Redux, Tailwind CSS, Appwrite  
+🔹 [Live Demo](https://write-up-two.vercel.app/)
+
 ### [HackDevs – Hackathon Collaboration Platform](https://github.com/batcoder-1/Hackathon)  
-🔹 Full-stack platform to connect 50+ participants during hackathons  
+🔹 Connect 50+ participants during hackathons  
 🔹 Built with React.js, Node.js, Appwrite, Redux Toolkit, Tailwind CSS  
 🔹 [Live Demo](https://branch-main-aa7ba5d.appwrite.network/)
-
----
-
-### [Weather App – Real-Time Forecast](https://github.com/batcoder-1/weather-app)  
-🔹 Provides live weather updates using OpenWeather & TimeZoneDB APIs  
-🔹 Optimized for sub-500ms latency, tested by 100+ users  
 
 ---
 
@@ -56,6 +55,7 @@
 - 📝 **React ToDo App** – Persistent tasks + motivational quotes  
 - 💱 **Currency Converter** – 30+ currencies with one-click swap  
 - 🎬 **Movie Recommendation Site** – 200+ movies, search & watchlist  
+- 🌤️ **Weather App** – Live weather updates using OpenWeather & TimeZoneDB APIs  
 
 ---
 
